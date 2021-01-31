@@ -1,5 +1,5 @@
 {
-  "name": "My chrome extension with Typescript",
+  "name": "my-chrome-extension-with-typescript",
   "version": "0.0.1",
   "main": "index.js",
   "author": "jhw123",
